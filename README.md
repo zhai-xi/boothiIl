@@ -1,5 +1,2 @@
-<br/><br/><br/>
-<div align="center">
-	<img src="https://files.catbox.moe/tuqhpw.png">
-</div>‎ ‎ ‎  ‎  ‎
-<br/><br/><br/>
+
+![](https://img.shields.io/static/v1?label=&message=ILYA&color=e12117)
